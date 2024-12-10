@@ -1,1 +1,1 @@
-# BlackJackAlgorithm
+# Blackjack Algorithm
